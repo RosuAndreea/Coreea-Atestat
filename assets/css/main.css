@@ -1555,3 +1555,30 @@
 				}
 
 		}
+/* Geografie */
+	
+	.text-wrapper {
+		width: 50%;
+		float: left;
+		margin: 30px 40px;
+		background: #ffffff;
+		padding: 35px;
+    	font-size: 18px;
+	}
+	.image-wrapper {
+		width: 40%;
+		float: left;
+		margin: 80px 30px 30px;
+	}
+		.images {
+			margin-bottom: 60px;
+		}
+		.images img{
+			width: 600px;
+			height: 350px;
+			left: 0;
+			right: 0;
+			margin: auto;
+			display: inherit;
+			/* transform: rotate(-5deg); */
+		}
