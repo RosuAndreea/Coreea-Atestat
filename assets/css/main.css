@@ -1582,3 +1582,6 @@
 			display: inherit;
 			/* transform: rotate(-5deg); */
 		}
+		.images img.big-img{
+			height: 450px;
+		}
